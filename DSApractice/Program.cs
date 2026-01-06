@@ -71,6 +71,23 @@ using System.IO;
 //Console.ReadKey();
 #endregion Grading
 
-#region
-#endregion
+#region AppleOrange
+//string[] firstMultipleInput = Console.ReadLine().TrimEnd().Split(' ');
+//int houseStart = Convert.ToInt32(firstMultipleInput[0]);
+//int houseEnd = Convert.ToInt32(firstMultipleInput[1]);
+
+//string[] secondMultipleInput = Console.ReadLine().TrimEnd().Split(' ');
+//int appleTree = Convert.ToInt32(secondMultipleInput[0]);
+//int orangeTree = Convert.ToInt32(secondMultipleInput[1]);
+
+//string[] thirdMultipleInput = Console.ReadLine().TrimEnd().Split(' ');
+//int apples = Convert.ToInt32(thirdMultipleInput[0]);
+//int oranges = Convert.ToInt32(thirdMultipleInput[1]);
+
+//List<int> appleThrown = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(applesTemp => Convert.ToInt32(applesTemp)).ToList();
+//List<int> orangeThrown = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(orangesTemp => Convert.ToInt32(orangesTemp)).ToList();
+
+//AppleOrange appleOrange = new AppleOrange();
+//appleOrange.countApplesAndOranges(houseStart, houseEnd, appleTree, orangeTree, appleThrown, orangeThrown, apples, oranges);
+#endregion AppleOrange
 
